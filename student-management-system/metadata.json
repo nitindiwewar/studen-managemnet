@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "A modern, responsive Student Management System with an elegant dashboard, search, filters, student list, add/edit/delete functionality, and pagination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
