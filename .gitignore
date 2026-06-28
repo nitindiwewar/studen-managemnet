@@ -1,0 +1,14 @@
+# Backend
+student-management-backend/node_modules/
+student-management-backend/.env
+
+# Frontend
+student-management-system/node_modules/
+student-management-system/dist/
+student-management-system/build/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
